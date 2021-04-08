@@ -1,1 +1,2 @@
-# CarRaceGame-Class40
+# synchronousBallMovement
+Ball moving synchronously
